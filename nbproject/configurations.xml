@@ -13,6 +13,20 @@
     <logicalFolder name="ResourceFiles"
                    displayName="Файлы ресурсов"
                    projectFiles="true">
+      <logicalFolder name="rootf" displayName="rootf" projectFiles="true">
+        <logicalFolder name="dbases" displayName="dbases" projectFiles="true">
+          <logicalFolder name="foneindex" displayName="foneindex" projectFiles="true">
+            <logicalFolder name="filestab" displayName="filestab" projectFiles="true">
+              <itemPath>E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/adresindex.tab</itemPath>
+              <itemPath>E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/pindex.spr</itemPath>
+              <itemPath>E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/telindex.tab</itemPath>
+            </logicalFolder>
+            <itemPath>E:/programs/microsql/nbproject/rootf/dbases/foneindex/index.rul</itemPath>
+          </logicalFolder>
+          <itemPath>E:/programs/microsql/nbproject/rootf/dbases/conf.txt</itemPath>
+        </logicalFolder>
+        <itemPath>E:/programs/microsql/nbproject/rootf/conf.txt</itemPath>
+      </logicalFolder>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Файлы тестов"
@@ -26,6 +40,9 @@
       <itemPath>Makefile</itemPath>
     </logicalFolder>
   </logicalFolder>
+  <sourceRootList>
+    <Elem>E:\programs\microsql\nbproject\rootf</Elem>
+  </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Debug" type="1">
@@ -36,6 +53,36 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="E:/programs/microsql/nbproject/rootf/conf.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/conf.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/adresindex.tab"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/pindex.spr"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/telindex.tab"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/index.rul"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -59,6 +106,36 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="E:/programs/microsql/nbproject/rootf/conf.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/conf.txt"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/adresindex.tab"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/pindex.spr"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/filestab/telindex.tab"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="E:/programs/microsql/nbproject/rootf/dbases/foneindex/index.rul"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>

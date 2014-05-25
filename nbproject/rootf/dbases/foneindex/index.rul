@@ -1,0 +1,10 @@
+root_folder = "\foneindex\filestab";
+tabl = ";adresindex.tab;pindex.spr;telindex.tab";
+
+metatab pindex.spr
+{
+;index;string(9);pkey;
+;name;string(0);ikey;
+;sname;string(0);ikey;
+;tname;string(0);ikey;
+;datar;data;;}

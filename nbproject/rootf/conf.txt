@@ -1,0 +1,5 @@
+root_folder = "E:\programs\microsql\nbproject\rootf\dbases";
+
+metatabl dbases_index {
+;foneindex;
+}
